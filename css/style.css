@@ -1,0 +1,10 @@
+a{
+	columns: #000000;;
+}
+.container-fluid {
+	padding: 0px;
+}
+
+.navbar-expand-lg {
+	justify-content: space-between;
+}

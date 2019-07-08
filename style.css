@@ -1,0 +1,123 @@
+/*header*/
+a{
+	color: #000000;;
+}
+.container-fluid {
+	padding: 0px;
+}
+.navigationbar{
+	border: 1px solid #eceef4;
+}
+.navbar navbar-expand-lg{
+	border: solid;
+}
+.navigation-right {
+	width: 135%;
+}
+.navbar-nav{
+	display: inline-block;
+}
+.nav-item{
+display: inline-block;
+}
+.nav-item .nav-border{
+	display: inline-block;
+}
+.nav-border{
+	border-right: 1px solid #eceef4;
+}
+/*header*/
+
+/*main*/
+/* banner */
+.banner{
+	position:relative;
+	width: 100%;
+	
+}
+.image img{
+width: 100%;
+}
+.banner-image1{
+	position: absolute;
+	margin: -22% auto;
+    width: 100%;
+    text-align: center;  
+}
+.banner-image2{
+	position: absolute;
+	text-align: center;
+    margin: -22% 60%;
+}
+/* banner */
+
+/* section2 */
+/* What we do */
+.wrap{
+	padding-top: 10%;
+	padding-bottom: 8%;
+}
+.What-we-do-image{
+	display: contents;	
+}
+.What-we-do-image img{
+	padding-left: 30%;
+}
+.What-we-do-text{
+	font-size: 43px;
+	display: inline-block;
+}
+/* What we do */
+
+.row1{
+	display: flex;
+    padding-bottom: 7%;
+}
+.row2{
+	display: flex;
+    padding-bottom: 7%;
+}
+.row3{
+	display: flex;
+    padding-bottom: 7%;
+}
+/* section2 */
+
+/* section3 */
+.Our-Projects-image{
+	display: contents;
+}
+.Our-Projects-image img{
+	padding-left: 30%;
+}
+.Our-Projects-text{
+	font-size: 43px;
+	display: inline-block;
+}
+
+/* .btn .btn-default{
+	border-radius: 0%;
+} */
+/* section3 */
+
+/* section4 */
+.Meet-Our-Team-image{
+	display: contents;
+}
+.Meet-Our-Team-image img{
+	padding-left: 30%;
+}
+.Meet-Our-Team-text{
+	font-size: 43px;
+	display: inline-block;
+}
+
+.col-md-3{
+	text-align: center;
+	background-color: #f5f5f5;
+    /* padding: 15% 0%; */
+}
+.col-md-3 img{
+	margin: 40px 0px;
+    padding: 0px 50px;
+}
